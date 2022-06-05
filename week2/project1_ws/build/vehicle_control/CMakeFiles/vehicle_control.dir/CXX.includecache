@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fan/project1_ws/src/vehicle_control/include/pid_controller.h
+
+/home/fan/project1_ws/src/vehicle_control/src/pid_controller.cpp
+pid_controller.h
+/home/fan/project1_ws/src/vehicle_control/src/pid_controller.h
+

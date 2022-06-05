@@ -1,0 +1,2 @@
+rosbridge_suite/rosapi:rosbridge_suite/rosbridge_library:rosbridge_suite/rosbridge_server:rosbridge_suite/rosbridge_suite:vehicle_control
+-DCATKIN_DEVEL_PREFIX=/home/fan/project1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fan/project1_ws/install -G Unix Makefiles
